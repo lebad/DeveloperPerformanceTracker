@@ -32,4 +32,4 @@ Track your daily coding productivity through git commits. Menu bar app for macOS
 
 If this app helps you, consider buying me a coffee:
 
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/YOUR_USERNAME)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/andreylebedev)
