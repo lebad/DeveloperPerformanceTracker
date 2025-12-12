@@ -21,6 +21,13 @@ Track your daily coding productivity through git commits. Menu bar app f
 ### Team Comparison
 ![Contributors](screenshots/contributors.png)
 
+### Quick Setup
+  
+1. Add your repo path – Point to any git repository on your Mac
+2. Set your daily target – See what your teammates commit and choose your goal
+3. Find yourself – Select your git user from the contributors list
+4. That's it! – Start coding and watch your progress grow
+
 
 ## Download
 
