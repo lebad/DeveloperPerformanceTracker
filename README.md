@@ -13,13 +13,19 @@ Track your daily coding productivity through git commits. Menu bar app f
 ## Screenshots
 
 ### Daily Progress
-![Today View](screenshots/today.png)
+<p align="center">
+  <img src="screenshots/today.png" width="500" />
+</p>
 
 ### History
-![History View](screenshots/history.png)
+<p align="center">
+  <img src="screenshots/history.png" width="500" />
+</p>
 
 ### Team Comparison
-![Contributors](screenshots/contributors.png)
+<p align="center">
+  <img src="screenshots/contributors.png" width="500" />
+</p>
 
 ### Quick Setup
   
