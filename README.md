@@ -10,6 +10,10 @@ Track your daily coding productivity through git commits. Menu bar app f
 👥 Team Comparison  
 🔒 100% Offline
 
+## Why I Built This
+I wanted a simple way to stay motivated and be more productive every day. Just a quiet progress bar in my menu bar that reminds me to keep shipping code.
+I've been using this app myself for months, and it's helped me build better coding habits. Now I'm sharing it with you. Hope it helps you too! 🚀
+
 ## Screenshots
 
 ### Daily Progress
