@@ -1,3 +1,17 @@
+<div align="center">
+
+# <img src="icon.png" width="128" height="128" alt="Developer Performance Tracker" />
+
+Track your daily coding productivity through git commits. Menu bar app for macOS that keeps you motivated and helps you grow alongside your team.
+
+[Features](#-features) • [Installation](#-installation) • [Screenshots](#-screenshots) • [Setup](#%EF%B8%8F-setup) • [Privacy](#-privacy)
+
+[![macOS](https://img.shields.io/badge/macOS-11.0+-blue.svg)](https://www.apple.com/macos/)
+[![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
+
+</div>
+
+
 # Developer Performance Tracker
 
 Track your daily coding productivity through git commits. Menu bar app for macOS that keeps you motivated and helps you grow alongside your team.
@@ -31,7 +45,17 @@ I've been using this app myself for months, and it's helped me build better codi
   <img src="screenshots/contributors.png" width="500" />
 </p>
 
-### Quick Setup
+## Privacy
+
+**Zero Data Collection Policy**
+
+Developer Performance Tracker operates entirely offline:
+- ✅ No network requests
+- ✅ No analytics/tracking
+- ✅ No third-party SDKs
+- ✅ All settings stored locally (`UserDefaults`)
+
+### Setup
   
 1. Add your repo path – Point to any git repository on your Mac
 2. Set your daily target – See what your teammates commit and choose your goal
