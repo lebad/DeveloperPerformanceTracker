@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="Icon-macOS-512x512@2x.png" width="128" height="128" alt="Developer Performance Tracker" />
+# <img src="icon.png" width="32" height="32" /> Developer Performance Tracker
 
 Track your daily coding productivity through git commits. Menu bar app for macOS that keeps you motivated and helps you grow alongside your team.
 
