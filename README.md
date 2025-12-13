@@ -6,9 +6,11 @@
 
 Track your daily coding productivity through git commits. Menu bar app for macOS that keeps you motivated and helps you grow alongside your team.
 
-[Features](#features) • [Screenshots](#screenshots) • [Setup](#setup) • [Privacy](#privacy)
+[Features](#features) • [Screenshots](#screenshots) • [Setup](#setup) • [Privacy](#privacy) • [Download](#download)
 
 [![macOS](https://img.shields.io/badge/macOS-15.1+-blue.svg)](https://www.apple.com/macos/)
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/andreylebedev)
 
 </div>
 
