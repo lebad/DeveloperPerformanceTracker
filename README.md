@@ -6,8 +6,7 @@ Track your daily coding productivity through git commits. Menu bar app f
 
 [Features](#-features) • [Installation](#-installation) • [Screenshots](#-screenshots) • [Setup](#%EF%B8%8F-setup) • [Privacy](#-privacy)
 
-[![macOS](https://img.shields.io/badge/macOS-11.0+-blue.svg)](https://www.apple.com/macos/)
-[![Swift](https://img.shields.io/badge/Swift-5.9+-orange.svg)](https://swift.org)
+[![macOS](https://img.shields.io/badge/macOS-15.1+-blue.svg)](https://www.apple.com/macos/)
 
 </div>
 
