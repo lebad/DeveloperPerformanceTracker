@@ -2,6 +2,8 @@
 
 # <img src="Icon-macOS-32x32.png" width="32" height="32" /> Developer Performance Tracker
 
+**A motivational menu bar app for macOS developers**
+
 Track your daily coding productivity through git commits. Menu bar app for macOS that keeps you motivated and helps you grow alongside your team.
 
 [Features](#features) • [Screenshots](#screenshots) • [Setup](#setup) • [Privacy](#privacy)
